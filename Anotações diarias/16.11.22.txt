@@ -1,0 +1,3 @@
+simples fazer o primeiro projeto diferente do que eu pensava.
+
+ Começando os Primeiros passos com JavaScript
